@@ -1,0 +1,9 @@
+.dockerignore
+.git
+.gitignore
+0compose/
+venv/
+.venv/
+.idea/
+
+dockerize-multi-stage.png
